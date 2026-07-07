@@ -10,4 +10,4 @@ E' infine presente la relazione di quanto affrontato nel progetto
 
 Il file .gitattributes da il link del datset originale (https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024) 
 
-Nella cartella dataset è stato inserito il file originale (flight_data_2024.csv), non quello duplicato (superando i 2.6 GB, supera il limite massimo consentito per i singoli file) e quello dimezzato, entrambi possono essere caricati ma nel primo caso il file andrebbe diviso in due parti
+Nella cartella dataset è stato inserito il file originale (flight_data_2024.csv), non quello duplicato (flight_data_200.csv che superando i 2.6 GB, supera il limite massimo consentito per i singoli file) e quello dimezzato (flight_data_50.csv), entrambi possono essere caricati ma nel primo caso il file andrebbe diviso in due parti
